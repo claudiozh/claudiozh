@@ -1,27 +1,27 @@
 
 ```javascript
- class MyProfile {
-     constructor() {
-         this.description = '🤔 Explorando novas tecnologias e desenvolvendo soluções de software.';
-         this.formation = '🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pelo IFRN';
-         this.job = `💼 Trabalhando desde 2019 como <b>Programador backend e frontend</b> com
-         maior enfâse no <b>backend</b> utilizando o framework <b>Nestjs</b>`;
-         
-         this.learning = '📚 Aprendendo mais sobre <b>RabbitMQ, Docker, Reactjs.</b>'
-     }
- }
- 
- const aboutMe = () => {
-     const profile = new MyProfile();
+class MyProfile {
+    constructor() {
+        this.description = '🤔 Explorando novas tecnologias e desenvolvendo soluções de software.';
+        this.formation = '🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pelo IFRN';
+        this.job = `💼 Trabalhando desde 2019 como <b>Programador backend e frontend</b>
+            com maior enfâse no <b>backend</b> utilizando o framework <b>Nestjs</b>`;
+            
+        this.learning = '📚 Aprendendo mais sobre <b>RabbitMQ, Docker, Reactjs.</b>'
+    }
+}
 
-     document.querySelector('#about-me').innerHTML = '<h2>👨‍💻 Sobre mim</h2>';
-     document.querySelector('#description').innerHTML = profile.description;
-     document.querySelector('#formation').innerHTML = profile.formation;
-     document.querySelector('#job').innerHTML = profile.job;
-     document.querySelector('#learning').innerHTML = profile.learning;
- }
- 
- aboutMe();
+const aboutMe = () => {
+    const profile = new MyProfile();
+
+    document.querySelector('#about-me').innerHTML = '<h1>👨‍💻 Sobre mim</h1>' +
+        '<li>' + profile.description + '</li>' +
+        '<li>' + profile.formation + '</li>' +
+        '<li>' + profile.job + '</li>' +
+        '<li>' + profile.learning + '</li>';
+}
+
+aboutMe();
 ```
 
 <h3> 👨‍💻 Sobre mim </h3>
