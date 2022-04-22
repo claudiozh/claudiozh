@@ -15,10 +15,12 @@ const aboutMe = () => {
     const profile = new MyProfile();
 
     document.querySelector('#about-me').innerHTML = '<h1>👨‍💻 Sobre mim</h1>' +
+        '<ul>' +
         '<li>' + profile.description + '</li>' +
         '<li>' + profile.formation + '</li>' +
         '<li>' + profile.job + '</li>' +
-        '<li>' + profile.learning + '</li>';
+        '<li>' + profile.learning + '</li>' +
+        '</ul>';
 }
 
 aboutMe();
