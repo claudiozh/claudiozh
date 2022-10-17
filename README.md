@@ -67,10 +67,10 @@ aboutMe();
   
  **Projetos públicos**
  
- - Beecheck - Sistema para o gerenciamento de colmeias e apiários <a href="http://bee-check.herokuapp.com"> Acesse</a>
- - Petshop - Site estático com algumas raças de animais   <a href="https://petshop-nodets.herokuapp.com/"> Acesse</a>
- - Move IT - Aplicação desenvolvida em NLW da Rocketseat <a href="https://moveit-claudiozh.vercel.app/"> Acesse</a>
-
+ - <a href="http://bee-check.herokuapp.com">Beecheck</a> - Sistema para o gerenciamento de colmeias e apiários
+ - <a href="https://petshop-nodets.herokuapp.com/">Petshop</a> - Site estático com algumas raças de animais  
+ - <a href="https://moveit-claudiozh.vercel.app/">Move IT</a> - Aplicação desenvolvida em NLW da Rocketseat
+ - <a href="https://react-calc-imc-claudiozh.vercel.app/">IMC Calc</a> - Aplicação para calcular o índice de massa corporal
 <br/>
 
 <a href="https://github.com/claudiozh">
