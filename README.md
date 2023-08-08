@@ -5,7 +5,7 @@ class MyProfile {
         this.description = '🤔 Explorando novas tecnologias e desenvolvendo soluções de software.';
         this.formation = '🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pelo IFRN';
         this.job = `💼 Trabalhando desde 2019 como <b>Programador backend e frontend</b>
-            com maior enfâse no <b>backend</b> utilizando o framework <b>NodeJS</b> e seus frameworks associados como <b>NestJS, Express, Fastify</b>`;
+            com maior enfâse no <b>backend</b> utilizando <b>NodeJS</b> e seus frameworks associados como <b>NestJS, Express, Fastify</b>`;
             
         this.learning = '📚 Aprendendo mais sobre <b>RabbitMQ, Docker, ReactJS., NextJS</b>'
     }
