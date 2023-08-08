@@ -14,7 +14,7 @@ class MyProfile {
 const aboutMe = () => {
     const profile = new MyProfile();
 
-    document.querySelector('#about-me').innerHTML = '<h1>👨‍💻 Sobre mim</h1>' +
+    document.querySelector('body').innerHTML = '<h1>👨‍💻 Sobre mim</h1>' +
         '<ul>' +
         '<li>' + profile.description + '</li>' +
         '<li>' + profile.formation + '</li>' +
