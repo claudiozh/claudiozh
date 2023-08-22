@@ -67,7 +67,7 @@ aboutMe();
   
  **Projetos públicos**
  
- - <a href="https://encurtaki.me/claudiozh">Portfolio</a> - Meu portfolio
+ - <a href="https://encurtaki.me/claudiozh">Portfolio</a> - Meu portfólio
  - <a href="https://encurtaki.me">Encurtaki</a> - Sistema para encurtar urls, quantificar acessos e gerar qrcodes 
  - <a href="https://petshop-nodets.herokuapp.com/">Petshop</a> - Site estático com algumas raças de animais  
  - <a href="https://moveit-claudiozh.vercel.app/">Move IT</a> - Aplicação desenvolvida em NLW da Rocketseat
