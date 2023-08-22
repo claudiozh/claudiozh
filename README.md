@@ -47,7 +47,7 @@ aboutMe();
   ![Extjs](https://img.shields.io/badge/-Extjs-333333?style=flat&logo=extjs)
   
   
-**Utilidades**
+**Utilitários**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -67,7 +67,8 @@ aboutMe();
   
  **Projetos públicos**
  
- - <a href="http://bee-check.herokuapp.com">Beecheck</a> - Sistema para o gerenciamento de colmeias e apiários
+ - <a href="http://bee-check.herokuapp.com">Portfolio</a> - Meu portfolio
+ - <a href="http://bee-check.herokuapp.com">Encurtaki</a> - Sistema para encurtar urls, quantificar acessos e gerar qrcodes 
  - <a href="https://petshop-nodets.herokuapp.com/">Petshop</a> - Site estático com algumas raças de animais  
  - <a href="https://moveit-claudiozh.vercel.app/">Move IT</a> - Aplicação desenvolvida em NLW da Rocketseat
  - <a href="https://react-calc-imc-claudiozh.vercel.app/">IMC Calc</a> - Aplicação para calcular o índice de massa corporal
